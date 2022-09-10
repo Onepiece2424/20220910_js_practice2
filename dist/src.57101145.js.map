@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["var2","console","log"],"mappings":";AAAA,IAAMA,EAAO,OACbC,QAAQC,IAAIF","file":"src.57101145.js","sourceRoot":"..","sourcesContent":["const var2 = 'おはよう';\nconsole.log(var2);"]}
